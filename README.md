@@ -1,7 +1,7 @@
-npm install 
-npm init -y
-npm i express
-npm i -g nodemon
-npm i dotenv
-npm i joi
-npm i msql
+npm install <br>
+npm init -y <br>
+npm i express <br>
+npm i -g nodemon <br>
+npm i dotenv <br>
+npm i joi <br>
+npm i msql <br>
