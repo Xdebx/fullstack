@@ -4,4 +4,4 @@ npm i express <br>
 npm i -g nodemon <br>
 npm i dotenv <br>
 npm i joi <br>
-npm i msql <br>
+npm i mysql <br>
